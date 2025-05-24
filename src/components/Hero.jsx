@@ -7,7 +7,7 @@ export const Hero = ({ onExploreClick }) => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   
   const heroImages = [
-    "https://images.unsplash.com/photo-1605027990121-3b2c58c083ba?w=800&h=600&fit=crop",
+    // "https://images.unsplash.com/photo-1605027990121-3b2c58c083ba?w=800&h=600&fit=crop",
     "https://images.unsplash.com/photo-1563114773-84221bd62daa?w=800&h=600&fit=crop",
     "https://images.unsplash.com/photo-1511688878353-3a2f5be94cd7?w=800&h=600&fit=crop"
   ];
